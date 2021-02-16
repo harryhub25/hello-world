@@ -1,2 +1,3 @@
 # hello-world
-My 1st GitHubRepository
+
+This is a small step for me and will be a gigantic leap for human.
